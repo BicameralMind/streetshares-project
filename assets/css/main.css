@@ -3255,7 +3255,7 @@
 		padding: 18em 0 3em 0;
 		background-attachment: fixed;
         
-        
+        	height: 100%;
 /*		background-image: url("images/overlay.png"), url("../../images/salute.jpg");*/
         
         background-image: url("../../images/lending.png");
@@ -3345,7 +3345,7 @@ body.is-touch #banner3 {
 		padding: 18em 0 3em 0;
 		background-attachment: fixed;
         
-        
+        	height: 100%;
 /*		background-image: url("images/overlay.png"), url("../../images/salute.jpg");*/
         
         background-image: url("../../images/investing.png");
